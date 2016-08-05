@@ -1,5 +1,5 @@
 # cryptun
-Crypto wrapper of Mcrypt ecncryption, like crypun (npm).
+Crypto wrapper with Mcrypt ecncryption, like crypun (npm).
 
 For example:
 =====
